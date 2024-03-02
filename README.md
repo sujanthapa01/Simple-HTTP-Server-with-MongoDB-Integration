@@ -25,8 +25,8 @@ This project implements a simple HTTP server using the Express.js framework in N
  - Clone the repository:
 
    ```bash
-   git clone https://github.com/sujanthapa01/simple-http-server-with-mongoDB.git  
-   cd simple-http-server-with-mongoDB
+   git clone https://github.com/sujanthapa01/Simple-HTTP-Server-with-MongoDB-Integration.git 
+   cd Simple-HTTP-Server-with-MongoDB-Integration
    npm install
 
    ```
